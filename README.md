@@ -49,28 +49,61 @@ Sample Input
 
 Sample Output
 
-    H    
-   HHH   
-  HHHHH  
- HHHHHHH 
-HHHHHHHHH
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-                    HHHHHHHHH 
-                     HHHHHHH  
-                      HHHHH   
-                       HHH    
-                        H 
+
+Input (stdin)
+Download
+
+    5
+
+Your Output (stdout)
+
+        H    
+
+       HHH   
+
+      HHHHH  
+
+     HHHHHHH 
+
+    HHHHHHHHH
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+      HHHHHHHHHHHHHHHHHHHHHHHHH   
+
+      HHHHHHHHHHHHHHHHHHHHHHHHH   
+
+      HHHHHHHHHHHHHHHHHHHHHHHHH   
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+      HHHHH               HHHHH             
+
+                        HHHHHHHHH 
+
+                         HHHHHHH  
+
+                          HHHHH   
+
+                           HHH    
+
+                            H     
+
